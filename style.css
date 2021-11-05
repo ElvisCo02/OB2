@@ -11,7 +11,7 @@ body{
     background-image: url(assets/img/studentsbg1.png), linear-gradient(35deg, #f5f7fa 0%, #c3cfe2 100%);
     background-size: 100%;
     height: fit-content;
-    background-repeat: no-repeat, repeat;
+    background-repeat: no-repeat;
     background-size: contain, cover;
 }
 
